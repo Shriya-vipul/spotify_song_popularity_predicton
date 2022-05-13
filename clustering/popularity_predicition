@@ -1,1 +1,11 @@
 
+In this project, we managed to categorize the songs into clusters, interpret the profile of
+each cluster, predict the popularity score for songs in each cluster, and compare the mean
+popularity score across clusters.
+
+The first technique we employed was clustering analysis. Based upon our focus on the
+prediction power of songs' audio features in relation to the songs' popularity score and the results
+of exploratory data analysis, we dropped: time_signature(as most songs have a value of 4),
+loudness(strongly correlated with energy), liveness(a dummy variable indicating whether the
+song is live performance), tempo(beats per minute which is ambiguous to decide the speed of the
+song), key(a pitch class notation) and mode(only used during music composition).
