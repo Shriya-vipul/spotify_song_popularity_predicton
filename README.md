@@ -61,9 +61,9 @@ influence of outliers, we removed the observations beyond the range between the 
 3rd quartile based upon the popularity variable and the six audio features variables
 
 + **Results**: 
-Cluster 1 : Melodious & Lyrical Tracks - High speechiness, High acousticness and High energy
-Cluster 2 : Party Tracks - High Danceability, High Valence, High Energy
-Cluster 3 : Time to relax - Medium Danceability, Medium Acousticness, Medium Energy
-Cluster 4 : Instrumental Tracks - High Instrumentalness, High Acousticness, Low Speechiness
++ Cluster 1 : Melodious & Lyrical Tracks - High speechiness, High acousticness and High energy
++ Cluster 2 : Party Tracks - High Danceability, High Valence, High Energy
++ Cluster 3 : Time to relax - Medium Danceability, Medium Acousticness, Medium Energy
++ Cluster 4 : Instrumental Tracks - High Instrumentalness, High Acousticness, Low Speechiness
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
