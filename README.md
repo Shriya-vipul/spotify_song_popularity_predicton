@@ -1,6 +1,6 @@
 # Project : Predicting popularity of Spotify songs
 
-### [Project Description](doc/project2_desc.md)
+## Project Description: 
 
 <img src="figs/spotify.png" width="300" height="300">
 
