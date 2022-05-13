@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-<img src="figs/spotify.png" width="600">
+<img src="figs/spotify.png" width="300" height="300">
 
 Spotify releases over 137M new tracks every year to meet the high demands (Ingham,
 2021). Undoubtedly, some songs are beloved much more than others, going viral globally with
